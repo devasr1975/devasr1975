@@ -19,8 +19,6 @@ I’m a QA Automation Engineer focused on building reliable UI and API automatio
 
 ### 🚀 Featured Projects
 
-> Projects 
-
 - 🎭 [Playwright Java Automation]
 - 🔥 [Karate API Automation]
 - 📮 [Postman API Testing]
